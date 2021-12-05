@@ -1,0 +1,4 @@
+﻿  showpt.cpp
+F:\Programming\GitHub\JOo0ker\showpt\showpt.cpp(8,22): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Programming\GitHub\JOo0ker\showpt\showpt.cpp(9,32): warning C4305: “初始化”: 从“double”到“float”截断
+  showpt.vcxproj -> F:\Programming\GitHub\JOo0ker\Chapter17\Debug\showpt.exe

@@ -1,0 +1,4 @@
+﻿  precise.cpp
+F:\Programming\GitHub\JOo0ker\precise\precise.cpp(7,22): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Programming\GitHub\JOo0ker\precise\precise.cpp(8,32): warning C4305: “初始化”: 从“double”到“float”截断
+  precise.vcxproj -> F:\Programming\GitHub\JOo0ker\Chapter17\Debug\precise.exe

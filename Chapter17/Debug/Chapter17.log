@@ -1,0 +1,3 @@
+﻿  write.cpp
+F:\Programming\GitHub\JOo0ker\Chapter17\write.cpp(31,25): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+  Chapter17.vcxproj -> F:\Programming\GitHub\JOo0ker\Chapter17\Debug\write.exe
