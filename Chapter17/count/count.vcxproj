@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4b0a6662-feeb-4ead-b4e8-afda2247d5f9}</ProjectGuid>
-    <RootNamespace>vect2</RootNamespace>
+    <ProjectGuid>{e63f7c40-d68e-4b87-bfb7-d6ac0e9c9861}</ProjectGuid>
+    <RootNamespace>count</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="vect2.cpp" />
+    <ClCompile Include="count.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
