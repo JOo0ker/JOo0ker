@@ -1,3 +1,2 @@
 ﻿  useless.cpp
-F:\Programming\GitHub\JOo0ker\Chapter18\useless\useless.cpp(71,10): error C2382: “Useless::Useless”: 重定义；不同的异常规范
-F:\Programming\GitHub\JOo0ker\Chapter18\useless\useless.cpp(19): message : 参见“Useless::Useless”的声明
+  useless.vcxproj -> F:\Programming\GitHub\JOo0ker\Chapter18\rvref\Debug\useless.exe
